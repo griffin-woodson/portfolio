@@ -7,7 +7,7 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 ## Website
-Link to live website: 
+Link to live website: https://griffin-woodson.github.io/portfolio/
 
 ## Screenshot
 
