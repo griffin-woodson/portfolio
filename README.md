@@ -1,14 +1,16 @@
-# Christopher Pietrangeli Portfolio 
+# Portfolio
+Portfolio still in progress
 
-Portfolio is still being completed
+## User Story
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 ## Website
-Here is the link to the live website
+Link to live website: 
 
 ## Screenshot
 
-## Purpose 
-To create a portfolio to display the skills I am capable of as well as show the projects I have completed
 
 ## Contributions
-Created by Christopher Pietrangeli
+Created by Griffin Woodson
